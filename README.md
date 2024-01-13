@@ -36,6 +36,6 @@ I started React JS to become MERN Developer...
 <a href="https://github.com/trajev/MLRIT-GYM" align="right"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=trajev&repo=MLRIT-GYM&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a>
 </div>
 
-<br /> <br /> <br /> <br /> 
+<br /> <br /> <br /> <br /> <br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/trajev/BharatIntern-Projects" align="left"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=trajev&repo=BharatIntern-Projects&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a></div>
