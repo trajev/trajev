@@ -9,7 +9,7 @@ I started React JS to become MERN Developer...
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/trajeev/)
 * ✉️  You can contact me at [telagasettirajeev999@gmail.com](mailto:telagasettirajeev999@gmail.com)
-* 🚀  I'm currently working on [ReactJS Projects](http://https://github.com/trajev?tab=repositories)
+* 🚀  I'm currently working on [ReactJS Projects & Consistency Coding](https://github.com/trajev?tab=repositories)
 * 🧠  I'm learning React JS, MERN Stack , Tailwind CSS
 * ⚡  I love making WebApps
 
