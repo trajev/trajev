@@ -2,7 +2,12 @@
 <h1 align="center">Hi 👋, I'm Rajeev Telagasetti</h1>
 <h3 align="center">An Aspiring fullstack developer from India</h3>
 
+
+- 🌍 I'm based in India
+
 - 📝 Recognized in the coding community as ***Raj***, a south indian engineer.
+
+- 🖥  See my portfolio at [Linkedin](http://www.linkedin.com/in/trajeev/)
 
 - 🌱 I’m currently learning **MERN Stack**
 
