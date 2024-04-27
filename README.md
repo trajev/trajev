@@ -7,17 +7,17 @@
 
 - 📝 Recognized in the coding community as ***Raj***, a south indian engineer.
 
-- 🖥  See my portfolio at [Linkedin](http://www.linkedin.com/in/trajeev/)
+- 🖥  See my portfolio at [**Linkedin**](http://www.linkedin.com/in/trajeev/)
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 🔭 I’m currently working on **Full Stack projects**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/trajev/](https://www.github.com/trajev/)
+- 👨‍💻 All of my projects are available at [**Github**](https://www.github.com/trajev/)
 
 - 💬 Ask me about: JavaScript, React, Node.js, or anything tech-related!
 
-- 📫 You can reach me at **telagasettirajeev999@gmail.com**
+- 📫 You can reach me at [**telagasettirajeev999@gmail.com**](mailto:telagasettirajeev999@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
