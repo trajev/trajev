@@ -1,42 +1,111 @@
 
 <h1 align="center">Hi 👋, I'm Rajeev Telagasetti</h1>
-<h3 align="center">An Aspiring fullstack developer from India</h3>
+<h3 align="center">An Aspiring Full Stack Developer from India</h3>
+
+- 🌍 I'm based in India  
+- 📝 Recognized in the coding community as ***Raj***, a South Indian engineer  
+- 🖥️ See my portfolio on [**LinkedIn**](https://www.linkedin.com/in/trajeev/)  
+- 🌱 I’m currently learning **MERN Stack**  
+- 🔭 I’m currently working on **Full Stack Projects**  
+- 👨‍💻 All of my projects are available on [**GitHub**](https://github.com/trajev)  
+- 💬 Ask me about: JavaScript, React, Node.js, or anything tech-related!  
+- 📫 Reach me at [**telagasettirajeev999@gmail.com**](mailto:telagasettirajeev999@gmail.com)
+
+<hr style="width: 50%; height: 3px; border: none; background-color: #ccc; margin: 20px auto;" />
+
+<div style="margin-left: 15px;">
+
+<details open>
+<summary>🌐 My Socials</summary>
+
+<p align="left" style="margin-top: 10px; display: flex; gap: 20px">
+  <a href="https://github.com/trajev" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="30" height="30"/>
+  </a>
+  <a href="https://linkedin.com/in/trajeev" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="https://www.hackerrank.com/trajeev" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" height="30"/>
+  </a>
+  <a href="https://www.leetcode.com/trajeev" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/>
+  </a>
+</p>
+</details>
 
 
-- 🌍 I'm based in India
+<details>
+<summary>🛠️ My Developer Toolkit</summary>
 
-- 📝 Recognized in the coding community as ***Raj***, a south indian engineer.
+<h4>Programming Languages</h4>
+<p style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
+</p>
 
-- 🖥  See my portfolio at [**Linkedin**](http://www.linkedin.com/in/trajeev/)
+<h4>Frontend Frameworks & Libraries</h4>
+<p style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="42" height="42" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="42" height="42" />
+</p>
 
-- 🌱 I’m currently learning **MERN Stack**
+<h4>Backend & Server</h4>
+<p style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg" alt="Mongoose" width="42" height="42" />
+</p>
 
-- 🔭 I’m currently working on **Full Stack projects**
+<h4>Databases</h4>
+<p style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="42" height="42" />
+</p>
 
-- 👨‍💻 All of my projects are available at [**Github**](https://www.github.com/trajev/)
+<h4>DevOps & Tools</h4>
+<p style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42" />
+</p>
 
-- 💬 Ask me about: JavaScript, React, Node.js, or anything tech-related!
+</details>
 
-- 📫 You can reach me at [**telagasettirajeev999@gmail.com**](mailto:telagasettirajeev999@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+<details>
+<summary>📊 My GitHub Stats</summary>
+<br />
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trajev&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
+</p> -->
 <p align="left">
-<a href="https://twitter.com/t_rajev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="t_rajev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/trajeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trajeev" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/trajeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="trajeev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/trajeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trajeev" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trajev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com?user=trajev&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p> -->
+</details>
+
+
+<details>
+<summary>💡 Quote of the Day</summary>
+
+<p align="left">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</p>
+</details>
+</div>
