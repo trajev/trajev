@@ -18,7 +18,7 @@
 <details open>
 <summary>🌐 My Socials</summary>
 
-<p align="left" style="margin-top: 10px; display: flex; gap: 20px">
+<p align="left" style="width:500px; margin-top: 10px; display: flex; gap: 20px">
   <a href="https://github.com/trajev" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="30" height="30"/>
   </a>
