@@ -11,7 +11,7 @@
 - 💬 Ask me about: JavaScript, React, Node.js, or anything tech-related!  
 - 📫 Reach me at [**telagasettirajeev999@gmail.com**](mailto:telagasettirajeev999@gmail.com)
 
-<hr style="width: 50%; height: 3px; border: none; background-color: #ccc; margin: 20px auto;" />
+---
 
 <div style="margin-left: 15px;">
   
