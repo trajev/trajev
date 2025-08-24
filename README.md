@@ -19,6 +19,7 @@
 <summary>🌐 My Socials</summary>
 
 <p align="left">
+  <br>
   <a href="https://github.com/trajev" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="30" height="30"/>
   </a>&nbsp;&nbsp;
