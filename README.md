@@ -68,6 +68,6 @@ If you want to learn more about my work, visit my [web portfolio](https://trajev
 
 <p align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643514741/7452/danceydoge.gif?1643514741" width="45"/>
-  <img src="https://emojis.slackmojis.com/emojis/images/1643517067/31132/lemon_dance.gif?1643517067" width="45"/>
   <img src="https://emojis.slackmojis.com/emojis/images/1643509299/50856/chicken-dance.gif?1643509299" width="45"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1643515829/18463/cat_dance.gif?1643515829" width="45"/>
 </p>
