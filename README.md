@@ -23,26 +23,38 @@ If you want to learn more about my work, visit my [web portfolio](https://trajev
 - Rosogolla is my favourite sweet
 - Hobbies: food, fitness, running, and building random things
 
+### Key Skills
 
-### Technical Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-![Languages](https://img.shields.io/badge/Languages-0077B6?style=for-the-badge) Java · Python · JavaScript · SQL
+<details style="font-size:12px; padding-left:10px">
+<summary>Show All Technical Skills</summary>
 
-![Backend](https://img.shields.io/badge/Backend-6A4C93?style=for-the-badge) Spring Boot · REST APIs · FastAPI · Node.js · Express.js
+<br>**Languages:** Java, Python, JavaScript, SQL
 
-![Databases](https://img.shields.io/badge/Databases-2A9D8F?style=for-the-badge) MySQL · PostgreSQL · SQLite · MongoDB · Redis
+**Backend:** Spring Boot, REST APIs, FastAPI, Node.js, Express.js
 
-![Frontend](https://img.shields.io/badge/Frontend-E76F51?style=for-the-badge) React.js · HTML · CSS · Tailwind CSS
+**Databases:** MySQL, PostgreSQL, SQLite, MongoDB, Redis
 
-![AI](https://img.shields.io/badge/AI-8E44AD?style=for-the-badge) Spring AI · LLM APIs · Prompt Engineering · RAG · Embeddings · Vector Databases
+**AI:** Spring AI, LLM APIs, Prompt Engineering, RAG, Embeddings, Vector Databases
 
-![DevOps%20%26%20Tools](https://img.shields.io/badge/DevOps%20%26%20Tools-264653?style=for-the-badge) Git · GitHub · Maven · Docker · Postman · AWS · Linux
+**Frontend:** React.js, HTML, CSS, Tailwind CSS
 
-![Monitoring%20%26%20Support](https://img.shields.io/badge/Monitoring%20%26%20Support-4682B4?style=for-the-badge) ServiceNow · Sumo Logic · Dynatrace · Grafana · TWS · Tidal
+**DevOps & Tools:** Git, GitHub, Maven, Docker, Postman, AWS, Linux
+
+**Monitoring & Support:** ServiceNow, Sumo Logic, Dynatrace, Grafana, TWS, Tidal
+</details>
+
 
 ### Connect with me
-<div align="center">
-  <p style="display: flex; gap: 6px; ">
+<div>
+  <p style="display: flex; gap: 6px; align-items:center">
     <a href="https://trajev.github.io" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
     </a>
