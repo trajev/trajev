@@ -1,5 +1,4 @@
-### Hey there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-
+### <img src="https://emojis.slackmojis.com/emojis/images/1597609813/10031/60fps_parrot.gif" width="35"/> Hey there ...
 I'm [**Rajeev**](https://trajev.github.io), an aspiring full-stack developer based in Hyderabad, India.
 
 I design and build whatever I can imagine.
