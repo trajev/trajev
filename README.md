@@ -1,36 +1,26 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-</style>
+### Hey there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<div style="font-family: 'Poppins', sans-serif;">
+I'm [**Rajeev**](https://trajev.github.io), an aspiring full-stack developer based in Hyderabad, India.
 
-<h3>Hey there! 👋</h3>
+I design and build whatever I can imagine.
 
-<p>I'm Rajeev, an aspiring full-stack developer based in Hyderabad.</p>
+If an idea pops into my head, chances are I'll learn it and build it.
 
-<p>I design and build whatever I can imagine.</p>
+I'm also exploring the world of AI and building AI-powered applications.
 
-<p>If an idea pops into my head, chances are I'll learn it and build it.</p>
+My main tech stack is Java, Spring Boot, React.js, and MySQL. My favorite tools are Git, VS Code, and Docker.
 
-<p>I'm also exploring the world of AI and building AI-powered applications.</p>
+I've got a bunch of pinned projects, but [Dussehra Dev Challenge](https://github.com/trajev/DussehraDevChallenge) is still my favorite.
 
-<p>My main tech stack is Java, Springboot, React.js, and MySQL. My favorite tools are Git, VS Code, and Docker.</p>
+I've built over 40 public repos, but privately.. it's probably way more at this point.
 
-<p>I've got a bunch of pinned projects, but my favorite is the <a href="https://github.com/trajev/DussehraDevChallenge">Dussehra Dev Challenge</a>.</p>
+If you want to learn more about my work, visit my [web portfolio](https://trajev.github.io) here!
 
-<p>I've built over 40 public repos, but privately.. it's probably way more at this point.</p>
+Connect with me on [LinkedIn](https://www.linkedin.com/in/trajeev).
 
-<p>If you want to learn more about my work, visit my <a href="https://trajev.github.io">web portfolio</a> here!</p>
+#### Fun facts
 
-<p>Connect with me on <a href="https://www.linkedin.com/in/trajeev">LinkedIn</a>.</p>
-
-<h4>Fun Facts:</h4>
-
-<ul>
-<li>People call me <em>Raj</em></li>
-<li>I can type really fast</li>
-<li>Rosogulla is my favourite sweet</li>
-<li>Hobbies: food, fitness/run, building things</li>
-</ul>
-
-</div>
+- People call me Raj
+- I can type really fast
+- Rosogulla is my favourite sweet
+- Hobbies: food, fitness, running, and building random things
