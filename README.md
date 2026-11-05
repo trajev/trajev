@@ -47,8 +47,8 @@ If you want to learn more about my work, visit my [web portfolio](https://trajev
 **DevOps & Tools:** Git, GitHub, Maven, Docker, Postman, AWS, Linux
 
 **Monitoring & Support:** ServiceNow, Sumo Logic, Dynatrace, Grafana, TWS, Tidal
+<br>
 </details>
-
 
 ### Get In Touch.
 
