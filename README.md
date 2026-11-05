@@ -1,5 +1,5 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1597609813/10031/60fps_parrot.gif" width="35"/> Hey there!
-I'm [**Rajeev**](https://trajev.github.io)(*Raj*), an aspiring full-stack developer based in Hyderabad, India.
+I'm Rajeev (*Raj*), an aspiring full-stack developer based in Hyderabad, India.
 
 I design and build whatever I can imagine.
 
