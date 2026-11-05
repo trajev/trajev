@@ -14,14 +14,14 @@ I've got a bunch of pinned projects, but [Dussehra Dev Challenge](https://github
 
 If you want to learn more about my work, visit my [web portfolio](https://trajev.github.io) here!
 
-#### Fun facts
+#### Fun facts.
 
 - People call me Raj
 - I can type really fast
 - Rosogolla is my favourite sweet
 - Hobbies: food, fitness, running, and building random things
 
-### Key Skills
+### Tech Stack.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-square&logo=springboot&logoColor=white)
@@ -50,20 +50,10 @@ If you want to learn more about my work, visit my [web portfolio](https://trajev
 </details>
 
 
-### Connect with me
-<div>
-  <p style="display: flex; gap: 6px; align-items:center">
-    <a href="https://trajev.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-    </a>
-    <a href="https://www.linkedin.com/in/trajeev/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/trajev" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="mailto:telagasettirajeev999@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-  </p>
-</div>
+### Get In Touch.
+
+<a href="https://trajev.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>&nbsp;
+<a href="https://www.linkedin.com/in/trajeev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="https://github.com/trajev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
+<a href="mailto:telagasettirajeev999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+
