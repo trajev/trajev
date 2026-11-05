@@ -11,7 +11,7 @@ My main tech stack is Java, Spring Boot, React.js, and MySQL. My favorite tools 
 
 I've got a bunch of pinned projects, but [Dussehra Dev Challenge](https://github.com/trajev/DussehraDevChallenge) is still my favorite.
 
-If you want to learn more about my work, visit my [web portfolio](https://trajev.github.io) here!
+Want to know me more? visit my [web portfolio](https://trajev.github.io) here!
 
 #### Fun facts
 
