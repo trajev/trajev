@@ -21,6 +21,7 @@ If you want to learn more about my work, visit my [web portfolio](https://trajev
 - Rosogolla is my favourite sweet
 - Hobbies: food, fitness, running, and building random things
 
+<br>
 ### Tech Stack.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-square&logo=openjdk&logoColor=white)
@@ -47,9 +48,10 @@ If you want to learn more about my work, visit my [web portfolio](https://trajev
 **DevOps & Tools:** Git, GitHub, Maven, Docker, Postman, AWS, Linux
 
 **Monitoring & Support:** ServiceNow, Sumo Logic, Dynatrace, Grafana, TWS, Tidal
-<br>
+
 </details>
 
+<br>
 ### Get In Touch.
 
 <a href="https://trajev.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>&nbsp;
