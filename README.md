@@ -1,4 +1,3 @@
-<img src="./assets/banner.png" />
 ### Hey there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 I'm [**Rajeev**](https://trajev.github.io), an aspiring full-stack developer based in Hyderabad, India.
