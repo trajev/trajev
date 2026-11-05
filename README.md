@@ -42,7 +42,7 @@ If you want to learn more about my work, visit my [web portfolio](https://trajev
 
 ### Connect with me
 <div align="center">
-  <p>
+  <p style="display: flex; gap: 6px; ">
     <a href="https://trajev.github.io" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
     </a>
