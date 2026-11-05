@@ -21,8 +21,7 @@ If you want to learn more about my work, visit my [web portfolio](https://trajev
 - Rosogolla is my favourite sweet
 - Hobbies: food, fitness, running, and building random things
 
-<br>
-### Tech Stack.
+<br>### Tech Stack.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-square&logo=springboot&logoColor=white)
@@ -51,8 +50,7 @@ If you want to learn more about my work, visit my [web portfolio](https://trajev
 
 </details>
 
-<br>
-### Get In Touch.
+<br>### Get In Touch.
 
 <a href="https://trajev.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>&nbsp;
 <a href="https://www.linkedin.com/in/trajeev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
